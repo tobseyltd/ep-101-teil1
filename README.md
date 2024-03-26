@@ -1,6 +1,6 @@
 # EP-101 Tutorial Repo
 
-[Live Version] (https://tobseyltd.github.io/ep-101-teil1/)
+👉 Live Version: (https://tobseyltd.github.io/ep-101-teil1/)
 
 ---
 
