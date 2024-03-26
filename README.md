@@ -5,8 +5,7 @@
 ---
 
 In diesem Tutorial lernst du, warum es kein guter Stil ist, Inline-CSS in deiner Website
-zu schreiben. Außerdem wirst du dein erstes Web Projekt coden und dabei die ersten und wichtigen Basics
-von HTML & CSS erlernen.
+zu schreiben. Außerdem wirst du dein erstes Web Projekt coden und dabei die ersten und wichtigen Basics von HTML & CSS erlernen.
 
 ⚠️ Wichtig:
 
