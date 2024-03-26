@@ -9,13 +9,13 @@ zu schreiben. Außerdem wirst du dein erstes Web Projekt coden und dabei die ers
 
 ⚠️ Wichtig:
 
-👉 Schaue immer zuerst das Video ein Mal komplett an.<br />
-👉 Versuche nachzuvollziehen und zu verstehen, was ich in dem Video zeige.<br />
+👉 Downloade das Projekt komplett oder nur die Assets<br />
 👉 Beginne dann mit dem Nachbau des Web Projekts aus dem Tutorial.<br />
 👉 Suche dir ein ähnliches Projekt und baue es mit deinem neu erlangten Wissen nach.<br />
-👉 Überprüfe dein Wissen indem du das Quiz absolvierst.<br />
+👉 Überprüfe dein Wissen indem du das Quiz auf der EP-Website absolvierst.<br />
+👉 Wenn du kannst commite deinen Code in ein eigenes GitHub Repo<br />
 
-🔥 Oder komm in die programmieren-lernen.rocks Community und erhalte zusätzlichen
+🔥 Komm in die programmieren-lernen.rocks Community und erhalte zusätzlichen
 Deep Dive Content zu dieser Lektion und eine Bonus Challenge, die auf dem Wissen
 dieses Tutorials aufbaut.
 
