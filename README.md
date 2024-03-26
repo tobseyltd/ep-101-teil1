@@ -9,11 +9,11 @@ zu schreiben. Außerdem wirst du dein erstes Web Projekt coden und dabei die ers
 
 ⚠️ Wichtig:
 
-👉 Schaue immer zuerst das Video ein Mal komplett an.
-👉 Versuche nachzuvollziehen und zu verstehen, was ich in dem Video zeige.
-👉 Beginne dann mit dem Nachbau des Web Projekts aus dem Tutorial.
-👉 Suche dir ein ähnliches Projekt und baue es mit deinem neu erlangten Wissen nach.
-👉 Überprüfe dein Wissen indem du das Quiz absolvierst.
++👉 Schaue immer zuerst das Video ein Mal komplett an.
++👉 Versuche nachzuvollziehen und zu verstehen, was ich in dem Video zeige.
++👉 Beginne dann mit dem Nachbau des Web Projekts aus dem Tutorial.
++👉 Suche dir ein ähnliches Projekt und baue es mit deinem neu erlangten Wissen nach.
++👉 Überprüfe dein Wissen indem du das Quiz absolvierst.
 
 🔥 Oder komm in die programmieren-lernen.rocks Community und erhalte zusätzlichen
 Deep Dive Content zu dieser Lektion und eine Bonus Challenge, die auf dem Wissen
